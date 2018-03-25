@@ -3,9 +3,11 @@ Tecnologies: NodeJS
 
 Required API: Google Geocoding 
 
-Before start go to https://console.developers.google.com
-Create a project and enable Google Maps Geocoding API, <br>then
-create the file **keys.js** and put your API credentials.
+Before start go to https://console.developers.google.com<br>
+and create a project, enable Google Maps Geocoding API, <br>
+then in your cloned folder create the file **keys.js** and put your API credentials.
+
+
 
 > keys.js
 
