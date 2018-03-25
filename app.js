@@ -13,6 +13,7 @@ const argv = yargs
             string: true
         }
     })
+    .example("node app.js -a 'av.Paulista, 1000'")
     .help()
     .alias('help', 'h')
     .argv;

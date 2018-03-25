@@ -13,3 +13,6 @@ create the file **keys.js** and put your API credentials.
         google_maps: 'your api key here'
     };
 
+to run
+
+    $ node app.js -h
